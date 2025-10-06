@@ -1,0 +1,28 @@
+{
+    "name": "project-backend",
+    "version": "1.0.0",
+    "description": "```lets see what i go through```",
+    "keywords": [
+        "javascript",
+        "backend"
+    ],
+    "homepage": "https://github.com/billywithaw1lly/project-backend#readme",
+    "bugs": {
+        "url": "https://github.com/billywithaw1lly/project-backend/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/billywithaw1lly/project-backend.git"
+    },
+    "license": "ISC",
+    "author": "billy",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon src/index.js"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.10"
+    }
+}
